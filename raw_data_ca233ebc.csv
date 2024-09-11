@@ -1,0 +1,34 @@
+Link,Text
+#,
+#,
+/account/login?ret=/,Login
+/account/login?signup=true&ret=/,New customer?Sign Up
+/account/?rd=0&link=home_account,My Profile
+/plus,Flipkart Plus Zone
+/account/orders?link=home_orders,Orders
+/wishlist?link=home_wishlist,Wishlist
+/account/rewards?link=home_rewards,Rewards
+/the-gift-card-store?link=home_giftcard,Gift Cards
+login?ret=%2F&entryPage=HEADER_ACCOUNT&sourceContext=Header:HomePage,Login
+/viewcart?exploreMode=true&preference=FLIPKART,
+/viewcart?exploreMode=true&preference=FLIPKART,Cart
+https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,
+https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,Become a Seller
+#,
+/communication-preferences/push?t=all,Notification Preferences
+/helpcentre,24x7 Customer Care
+https://advertising.flipkart.com/?otracker=ch_vn_advertise_header,Advertise
+/mobile-apps?otracker=ch_vn_mobile_apps,Download App
+/grocery-supermart-store?marketplace=GROCERY&fm=neo%2Fmerchandising&iid=M_8c87d9f7-4f9f-47f3-9bca-1b3f7232f90d_1_372UD5BXDFYS_MC.CBUR1Q46W5F1&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Grocery_CBUR1Q46W5F1&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L0_view-all&cid=CBUR1Q46W5F1,Grocery
+/mobile-phones-store?fm=neo%2Fmerchandising&iid=M_8c87d9f7-4f9f-47f3-9bca-1b3f7232f90d_1_372UD5BXDFYS_MC.ZRQ4DKH28K8J&otracker=hp_rich_navigation_2_1.navigationCard.RICH_NAVIGATION_Mobiles_ZRQ4DKH28K8J&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_2_L0_view-all&cid=ZRQ4DKH28K8J,Mobiles
+/tvs-and-appliances-new-clp-store?fm=neo%2Fmerchandising&iid=M_8c87d9f7-4f9f-47f3-9bca-1b3f7232f90d_1_372UD5BXDFYS_MC.LO4IWVHA61BX&otracker=hp_rich_navigation_6_1.navigationCard.RICH_NAVIGATION_Appliances_LO4IWVHA61BX&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_6_L0_view-all&cid=LO4IWVHA61BX,Appliances
+/travel/flights?param=DTNavIcon&fm=neo%2Fmerchandising&iid=M_8c87d9f7-4f9f-47f3-9bca-1b3f7232f90d_1_372UD5BXDFYS_MC.V4ZPKTOAO321&otracker=hp_rich_navigation_7_1.navigationCard.RICH_NAVIGATION_Travel_V4ZPKTOAO321&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_7_L0_view-all&cid=V4ZPKTOAO321,Travel
+/july-2024-big-bachat-days-store?param=2033,
+/zebronics-zeb-pixaplay-24-4000-lm-remote-controller-portable-full-hd-1080p-160-inch-screen-size-auto-focus-keystone-bluetooth-wifi-hdmi-arc-usb-aux-app-support-miracast-smart-led-projector/p/itm42dd64343b28f?pid=PROH2PDKR6QYAUMW&lid=LSTPROH2PDKR6QYAUMW6WGJUU,
+https://www.flipkart.com/travel/flights?param=Travel-DT-Travel-DTTravel-DT-HPW-FLYMH,
+https://www.flipkart.com/travel/flights?param=Travel-DT-Travel-DT-HTravel-Travel-DT-HPW-3AIRLINES,
+/rakhi-gifts-2024-store?Param=3212,
+/audio-video/headset/pr?sid=0pm%2Cfcn&p%5B%5D=facets.connectivity%255B%255D%3DBluetooth&p%5B%5D=facets.rating%255B%255D%3D3%25E2%2598%2585%2B%2526%2Babove&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove&p%5B%5D=facets.price_range.from%3D699&p%5B%5D=facets.price_range.to%3DMax&sort=popularity&param=55,
+"/home-kitchen/home-appliances/~cs-4qkifgeabx/pr?sid=j9e,abm",
+/home-furnishing/bed-linen-blankets/bedsheets/pr?sid=jra%2Cknw%2Cqcw&marketplace=FLIPKART&p%5B%5D=facets.material%255B%255D%3DCotton&sort=popularity&param=1234456,
+/offers-list/best-deals-on-smartphones?screen=dynamic&pk=themeViews%3DMob-BSD-Dt-TOP-OMU%3ADt~widgetType%3DdealCard~contentType%3Dneo,Best Deals on Smartphones
